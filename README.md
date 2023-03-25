@@ -1,5 +1,5 @@
 # Hi there 👋 I am George Chaves
-### Creative programmer
+### Creative developer
 
 ![](https://komarev.com/ghpvc/?username=georgehfc&style=flat-square&color=green)
 
