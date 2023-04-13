@@ -7,12 +7,14 @@
 - 📚 I’m studying Computer Science at [Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)
 - 📫 How to reach me: george_hfc@yahoo.com.br
 - 👽 My website: [georgechaves.com](https://www.georgechaves.com/)
+- 🌘 Team work: [Daily Moon](https://github.com/hopefletcher/dailymoon)
+- 🟢 Active on: [EBAC – From Zero to Pro](https://github.com/georgehfc/ebac-react)
 
 **Connect with me**:
 
 <a href="https://www.linkedin.com/in/george-chaves/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-**Languages & Tools:
+**Languages & Tools**:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +25,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-**Currently Studying:
+**Currently Studying**:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
