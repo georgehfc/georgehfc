@@ -9,6 +9,7 @@
 - 👽 My website: [georgechaves.com](https://www.georgechaves.com/)
 - 🌘 Team work: [Daily Moon](https://github.com/hopefletcher/dailymoon)
 - 🟢 Active on: [EBAC – From Zero to Pro](https://github.com/georgehfc/ebac-react)
+- 🟢 Active on: [Step by Tech](https://github.com/georgehfc/step-by-tech)
 
 **Connect with me**:
 
