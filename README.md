@@ -4,12 +4,12 @@
 ![](https://komarev.com/ghpvc/?username=georgehfc&style=flat-square&color=green)
 
 - 🔭 I’m currently looking for my first Frontend Developer opportunity
-- 📚 I’m studying Computer Science at [Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)
 - 📫 How to reach me: george_hfc@yahoo.com.br
 - 👽 My website: [georgechaves.com](https://www.georgechaves.com/)
 - 🌘 Team work: [Daily Moon](https://github.com/hopefletcher/dailymoon)
 - 🟢 Active on: [EBAC – From Zero to Pro](https://github.com/georgehfc/ebac-react)
 - 🟢 Active on: [Step by Tech](https://github.com/georgehfc/step-by-tech)
+- 📚 I’m studying Computer Science at [Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)
 
 **Connect with me**:
 
