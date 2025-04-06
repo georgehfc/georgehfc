@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently designing with Webflow
 - 📫 How to reach me: george_hfc@yahoo.com.br
+- Test Link
 - 👽 My website: [georgechaves.com]([https://github.com/georgehfc/digital-cv](https://github.com/georgehfc/digital-cv))
 - 💦 Bebedouros de Lisboa: [Website]([https://georgehfc.github.io/step-by-tech/](https://georgehfc.github.io/step-by-tech/))
 - 🟢 Active on: [Flux Academy]([https://www.flux-academy.com/](https://www.flux-academy.com/))
@@ -20,4 +21,5 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Webflow](https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)
