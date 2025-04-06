@@ -6,9 +6,9 @@
 - 🔭 I’m currently designing with Webflow
 - 📫 How to reach me: george_hfc@yahoo.com.br
 - Test Link
-- 👽 My website: [georgechaves.com]([https://github.com/georgehfc/digital-cv](https://github.com/georgehfc/digital-cv))
-- 💦 Bebedouros de Lisboa: [Website]([https://georgehfc.github.io/step-by-tech/](https://georgehfc.github.io/step-by-tech/))
-- 🟢 Active on: [Flux Academy]([https://www.flux-academy.com/](https://www.flux-academy.com/))
+- 👽 My website: [georgechaves.com](https://github.com/georgehfc/digital-cv)
+- 💦 Bebedouros de Lisboa: [Website](https://georgehfc.github.io/step-by-tech/)
+- 🟢 Active on: [Flux Academy](https://www.flux-academy.com/)
 
 **Connect with me**:
 
