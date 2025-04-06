@@ -4,8 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=georgehfc&style=flat-square&color=green)
 
 - 🔭 I’m currently designing with Webflow
-- 📫 How to reach me: george_hfc@yahoo.com.br
-- Test Link
+- 📫 How to reach me: georgehfchaves@gmail.com
 - 👽 My website: [georgechaves.com](https://github.com/georgehfc/digital-cv)
 - 💦 Bebedouros de Lisboa: [Website](https://georgehfc.github.io/step-by-tech/)
 - 🟢 Active on: [Flux Academy](https://www.flux-academy.com/)
