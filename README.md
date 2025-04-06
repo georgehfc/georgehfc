@@ -1,7 +1,7 @@
 # Hi there 👋 I am George Chaves
 ### Creative developer
 
-![](https://komarev.com/ghpvc/?username=georgehfc&style=flat-square&color=green)
+<!--- ![](https://komarev.com/ghpvc/?username=georgehfc&style=flat-square&color=green) --->
 
 - 🔭 I’m currently designing with Webflow
 - 📫 How to reach me: georgehfchaves@gmail.com
