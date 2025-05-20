@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently designing with Webflow
 - 📫 How to reach me: georgehfchaves@gmail.com
-- 👽 My website: [georgechaves.com]([https://github.com/georgehfc/digital-cv](https://georgehfchaves.webflow.io/))
+- 👽 My website: [georgechaves.com](https://georgehfchaves.webflow.io/)
 - 💦 Bebedouros de Lisboa: [Website](https://georgehfc.github.io/step-by-tech/)
 - 🟢 Active on: [Flux Academy](https://www.flux-academy.com/)
 
